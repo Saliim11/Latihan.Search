@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan Search</string>
+    <string name="button">cari</string>
+    <string name="cari_film">cari film</string>
+    <string name="TEXT">judul</string>
+    <string name="judul">judul</string>
+</resources>
